@@ -1,0 +1,45 @@
+[
+  {
+    "id": "lap-001",
+    "brand": "Dell",
+    "model": "Inspiron 15 5000",
+    "price": 45990,
+    "ram_gb": 8,
+    "storage_type": "SSD",
+    "storage_gb": 512,
+    "cpu": "Intel i5-1135G7",
+    "purpose": ["Office","Student"],
+    "screen_in": 15.6,
+    "image": "https://placehold.co/400x250?text=Dell+Inspiron+15",
+    "description": "Good all-rounder for office and study"
+  },
+  {
+    "id": "lap-002",
+    "brand": "HP",
+    "model": "Pavilion Gaming 15",
+    "price": 75990,
+    "ram_gb": 16,
+    "storage_type": "SSD",
+    "storage_gb": 512,
+    "cpu": "Intel i5-11300H",
+    "gpu": "GTX 1650",
+    "purpose": ["Gaming","Content Creation"],
+    "screen_in": 15.6,
+    "image": "https://placehold.co/400x250?text=HP+Pavilion+Gaming",
+    "description": "Entry-level gaming and editing"
+  },
+  {
+    "id": "lap-003",
+    "brand": "Lenovo",
+    "model": "ThinkPad E14",
+    "price": 66999,
+    "ram_gb": 8,
+    "storage_type": "SSD",
+    "storage_gb": 256,
+    "cpu": "Intel i5-10210U",
+    "purpose": ["Business","Office"],
+    "screen_in": 14,
+    "image": "https://placehold.co/400x250?text=Lenovo+ThinkPad+E14",
+    "description": "Business laptop with robust build"
+  }
+]
